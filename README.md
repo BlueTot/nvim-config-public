@@ -6,7 +6,7 @@ The current system is designed for **general coding** and **markdown editing** f
 
 ## Installation
 
-Install Neovim v0.11.3 (or newer).
+Install Neovim v0.11.3 (or newer). These commands are for Linux x86_64, visit the [github page](https://github.com/neovim/neovim/releases) to find downloads for other setups.
 
 ```bash
 wget https://github.com/neovim/neovim/releases/download/v0.11.3/nvim-linux-x86_64.tar.gz
