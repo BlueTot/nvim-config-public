@@ -45,7 +45,7 @@ Run these commands in neovim to install the plugins.
 :PackerSync
 ```
 
-The `latex` treesitter parser has a dependency, which can be installed:
+The `latex` treesitter parser has a dependency, which can be installed. You might need to install Node.js - read [this](https://nodejs.org/en/download)
 
 ```bash
 npm install -g tree-sitter-cli
