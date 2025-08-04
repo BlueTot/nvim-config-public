@@ -51,5 +51,7 @@ The `latex` treesitter parser has a dependency, which can be installed. You migh
 npm install -g tree-sitter-cli
 ```
 
-There may be other dependencies, search online if there are any errors upon starting nvim again.
+Lastly, this config uses Tatum, a CLI tool for markdown editing. Visit [here](https://github.com/BlueTot/tatum) and follow the instructions to install.
+
+There may be other dependencies; search online if there are any errors upon starting nvim again.
 
